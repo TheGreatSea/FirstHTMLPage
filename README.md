@@ -1,5 +1,5 @@
 <h1>
-    This repository's pupose is to learn how to setup a ne git repo
+    This repository's pupose is to learn how to setup a new git repo
 </h1>
 
 <ol>
@@ -16,6 +16,6 @@
         git commit -m
     </li>
     <li>
-        git commit -m
+        git push
     </li>
 </ol>
